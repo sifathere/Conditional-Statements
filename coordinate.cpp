@@ -8,7 +8,7 @@ int main()
     cin>>x>>y;
 
     if(x>0 && y>0)
-    {
+    { 
         cout<<"First Quadrant"<<endl;
     }
     else if(x<0 && y>0)
