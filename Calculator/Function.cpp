@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> 
 using namespace std;
 
 void getInput(char &operation, float &num1, float &num2);
